@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_house_24"
+        android:title="Inicio"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/menuFragment"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:title="Menu"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/serviceFragment"
+        android:icon="@drawable/ic_baseline_local_dining_24"
+        android:title="Servicios"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/restaurantFragment"
+        android:icon="@drawable/ic_baseline_place_24"
+        android:title="Restaurant"
+        android:visible="true" />
+
+</menu>
